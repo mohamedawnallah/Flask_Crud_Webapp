@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: sans-serif;   
+
+}
+h1,h4{
+    text-align: center;
+}
+table {
+    margin: "50";
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#content {
+    width: 40%;
+}
+
